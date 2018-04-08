@@ -1,7 +1,7 @@
-### Tentang Kami
+
 Pada Tahun 2016 awalnya bernama ngacom (Ngadisimo Computer) kemudian tahun 2017 berubah nama menjadi Eth0 Academy sampai sekarang. 
 
-### Layanan
+## Layanan
 #### Training Networking
 Melayani pelatihan 	mikrotik dengan outline materi MTCNA dan MTCRE,
 Ciaco CCNA, Sysadmin, Virtualisasi(Eve-ng, Docker, Vmware), Teaching Factory,

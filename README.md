@@ -1,5 +1,5 @@
 
-Pada Tahun 2016 awalnya bernama ngacom (Ngadisimo Computer) kemudian tahun 2017 berubah nama menjadi Eth0 Academy sampai sekarang. 
+Pada Tahun 2016 awalnya bernama ngacom (Ngadisimo Computer) kemudian tahun 2017 berubah nama menjadi Eth0 Academy sampai sekarang.
 
 ## Layanan
 #### Training Networking
@@ -18,4 +18,7 @@ seperti: kantor, sekolah, industri, instansi, layanan umum, dll.
 Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
 
 ### Team
-1. Network Engineer (Muhammad Syaiful)
+1. Network Engineer (Muhammad Syaiful)(/mycv)
+
+### Contact
+Rofiq (+6285850105833)

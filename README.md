@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## ETH0 Academy
 
-You can use the [editor on GitHub](https://github.com/saifulindo/eth0-academy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Training Networking
+Melayani pelatihan 	mikrotik dengan outline materi MTCNA dan MTCRE,
+Ciaco CCNA, Sysadmin, Virtualisasi(Eve-ng, Docker, Vmware), Teaching Factory,
+Modul Pembelajaran Networking
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Service Computer (Software)
+Melayani perbaikan dan insalasi sistem operasi, scan virus,
+instalasi utilities, driver, game edukasi, software standar computer,
+perwatan berkala dan lain sebagainya.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saifulindo/eth0-academy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### IT Support
+Instalasi Jaringan dan maintanance komputer untuk small office dan home office,
+seperti: kantor, sekolah, industri, instansi, layanan umum, dll.
+Melayani instalasi Computer Base Test, Website, Konsultasi, dll.

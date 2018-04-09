@@ -18,11 +18,11 @@ seperti: kantor, sekolah, industri, instansi, layanan umum, dll.
 Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
 
 ### Team
-1. Network Engineer (Muhammad Syaiful)(/mycv)
-   Mikrotik Konsultan: 
+1. Network Engineer (Muhammad Syaiful)[Curiculume Vitae](/mycv)
+   Mikrotik Konsultan:<br>
    [https://mikrotik.com/consultants/asia/indonesia](https://mikrotik.com/consultants/asia/indonesia)
    ![konsultan](/consultan-mikrotik.jpg)
 
 ### Contact
-Rofiq (+6285850105833)
+Rofiq (+6285850105833)<br>
 Syaiful (+6285730947129)

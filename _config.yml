@@ -2,3 +2,6 @@
 theme: jekyll-theme-modernist
 title: "ETH0 Academy"
 description: "Training, Service, and IT Support"
+
+baseurl: "/myblog"
+url: "http://saifulindo.github.io/eth-nol"

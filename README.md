@@ -24,4 +24,3 @@ Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
 
 ### Contact
 Rofiq (+6285850105833)
-![konsultan]( )

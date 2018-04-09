@@ -18,7 +18,7 @@ seperti: kantor, sekolah, industri, instansi, layanan umum, dll.
 Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
 
 ### Team
-1. Network Engineer (Muhammad Syaiful)[Curiculume Vitae](/mycv)
+1. Network Engineer (Muhammad Syaiful) [Curiculume Vitae]:(/eth-nol/mycv)<br>
    Mikrotik Konsultan:<br>
    [https://mikrotik.com/consultants/asia/indonesia](https://mikrotik.com/consultants/asia/indonesia)
    ![konsultan](/consultan-mikrotik.jpg)

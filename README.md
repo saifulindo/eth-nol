@@ -7,6 +7,9 @@ Melayani pelatihan 	mikrotik dengan outline materi MTCNA dan MTCRE,
 Ciaco CCNA, Sysadmin, Virtualisasi(Eve-ng, Docker, Vmware), Teaching Factory,
 Modul Pembelajaran Networking
 
+## Training Programming
+Melayani pelatihan Membuat Aplikasi menggunakan Bahasa Pemrograman PHP, MySQL, CSS, Java Script.
+
 #### Service Computer (Software)
 Melayani perbaikan dan insalasi sistem operasi, scan virus,
 instalasi utilities, driver, game edukasi, software standar computer,
@@ -22,6 +25,7 @@ Melayani instalasi Computer Base Test, Website, Konsultasi, dll.
    Mikrotik Konsultan:<br>
    [https://mikrotik.com/consultants/asia/indonesia](https://mikrotik.com/consultants/asia/indonesia)
    ![konsultan](/consultan-mikrotik.jpg)
+2. Software Engineer (Rofiq Ashari)
 
 ### Contact
 Rofiq (+6285850105833)<br>
